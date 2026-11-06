@@ -1787,4 +1787,4 @@ A arquitetura demonstra como uma aplicação web pode ser dividida em serviços 
 | ------ | ---- | ------- |
 | ![Foto de Gabriel Osti](https://suap.ifsp.edu.br/media/alunos/fotos/2024/5gjJrkhG2px6iDWN3nhevac-VDNPS3SMB7bfJ1oGRas.jpg) | Gabriel Osti | _"Foi uma experiência demasiadamente interessante, pois um aprofundamento bem vindo no Docker, e assim pude compreender um pouco mais daquilo que vimos em aula."_
 | ![Foto de Mauro Lopes de Almeida Junior](https://suap.ifsp.edu.br/media/alunos/fotos/2024/TdtMTqav68iQa7LwQc_ETaWuQY6ZIVUQM_ZQ32PtbhE.jpg) | Mauro Lopes de Almeida Junior | _"Topzera."_
-| ![Foto de Nunca Mais](app/passaro.png) | Nunca Mais | _"E agora, José?"_
+| ![Foto de Nunca Mais](app/passaro.png) | Nunca Mais | _"E agora, José? A festa acabou. A luz apagou. O povo sumiu. A noite esfriou."_
